@@ -1,4 +1,4 @@
-## 脑子有点不太好使啊
+## 黄燕青是笨蛋
 
 You can use the [editor on GitHub](https://github.com/jjhenda/feichangda/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
